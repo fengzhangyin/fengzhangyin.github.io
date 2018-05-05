@@ -22,7 +22,8 @@
 		display: block;
 	}
 	ul > li > span{
-		float:right;
+	     float:right;
+	     padding-right:10px;
 	}
 
 	body {
