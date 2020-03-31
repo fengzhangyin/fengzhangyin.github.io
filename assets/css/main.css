@@ -2507,7 +2507,7 @@
 			#header > header .avatar {
 				display: block;
 				margin: 0 auto 2.25em auto;
-				width: 8em;
+				width: 13em;
 			}
 
 			#header > header h1 {
@@ -2519,6 +2519,7 @@
 				color: #d1f1e9;
 				font-style: italic;
 				margin: 1em 0 0 0;
+				text-align: left;
 			}
 
 		#header > footer {
@@ -2602,9 +2603,9 @@
 		}
 
 /* About */
-
+/*
 	#about:before {
-		background-image: url("../../images/banner.jpg");
+		background-image: url("../../images/banner.jpg"); 
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: cover;
@@ -2613,6 +2614,7 @@
 		height: 15em;
 		width: 100%;
 	}
+*/
 
 /* Footer */
 
